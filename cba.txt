@@ -1,5 +1,1 @@
-Bidelkkna
-Cbiiiu
-C
-C
- hello world
+Print("Hello, World!!!!!")
